@@ -16,7 +16,7 @@ In this assignment, the unsupervised learning was used to fit the MYOPIA data to
 1. Performed dimensionality reduction with PCA. This reduced the number of columns from 14 to 10 features.
     -   preserved 90% of the explained variance in dimensionality reduction.
 
-2. Further reduced the dataset dimensions with t-SNE and visually inspected the results. 
+2. Further reduced the dataset dimensions with t-SNE. 
 
 3. Created a scatter plot of the t-SNE output. Looks like there are 5 distinct clusters.
 
@@ -32,7 +32,7 @@ Created an elbow plot to identify the best number of clusters.
 
 ![elbowCurve](Images/elbowCurve.png)
 
-*** Used the principal components data with the K-means algorithm with a `K value of 5 & 6`
+### Used the principal components data with the K-means algorithm with a `K value of 5 & 6`
 
 #### `With K value of 5:`
 
