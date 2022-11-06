@@ -1,5 +1,5 @@
 # Unsupervised-ML-Myopia-Clusters
-In this assignment, the unsupervised learning was used to fit the MYOPIA data to the machine learning models. Several clustering algorithms were used to explore if the patients can be placed into distinct groups of patients. This would help us to analyze them separately and to find better ways to predict myopia, or nearsightedness. 
+The purpose of the assignment was used to process the raw MYOPIA data to fit the machine learning models. Several clustering algorithms were used to explore if the patients can be placed into distinct groups of patients. This would help us to analyze them separately and to find better ways to predict myopia, or nearsightedness. 
 
 ### Part 1: Prepare the Data
 
